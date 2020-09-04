@@ -1,4 +1,4 @@
-# Git 배우기용 Website
+# Git 배우기용 Repository
 
 이 repo 는 
 * Git, 
